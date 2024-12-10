@@ -1,0 +1,12 @@
+PyQt5
+opencv-python
+mediapipe
+pyautogui
+pywin32
+numpy
+Pillow
+customtkinter
+tkinterdnd2
+cryptography
+psutil
+watchdog
